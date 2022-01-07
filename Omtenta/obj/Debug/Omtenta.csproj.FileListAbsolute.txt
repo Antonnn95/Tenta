@@ -1,0 +1,7 @@
+C:\Users\Anton\source\repos\Omtenta\Omtenta\bin\Debug\Omtenta.exe.config
+C:\Users\Anton\source\repos\Omtenta\Omtenta\bin\Debug\Omtenta.exe
+C:\Users\Anton\source\repos\Omtenta\Omtenta\bin\Debug\Omtenta.pdb
+C:\Users\Anton\source\repos\Omtenta\Omtenta\obj\Debug\Omtenta.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Omtenta\Omtenta\obj\Debug\Omtenta.exe
+C:\Users\Anton\source\repos\Omtenta\Omtenta\obj\Debug\Omtenta.pdb
+C:\Users\Anton\source\repos\Omtenta\Omtenta\obj\Debug\Omtenta.csproj.AssemblyReference.cache
